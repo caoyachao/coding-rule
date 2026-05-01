@@ -1,8 +1,8 @@
 ---
 name: coding-rule
-description: Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
+description: Invoke before writing, editing, reviewing, or refactoring any code to prevent overengineering, speculative abstractions, and scope creep. Enforces simplicity, surgical changes, and verifiable success criteria.
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
   author: user
   tags: [coding, guidelines, best-practices]
 ---
